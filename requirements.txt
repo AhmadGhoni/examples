@@ -10,7 +10,7 @@ fire>=0.3.1
 flatbuffers
 absl-py>=0.10.0
 urllib3!=1.25.0,!=1.25.1,<1.26,>=1.21.1
-tflite-support>=0.4.2
+tflite-support
 tensorflowjs>=2.4.0,<3.19.0
 tensorflow
 # b/196287362: This Numba + Librosa combination works for numpy 1.19, introduced
